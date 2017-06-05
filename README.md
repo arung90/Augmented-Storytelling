@@ -1,6 +1,6 @@
 # Augmented-Storytelling: : A HoloLens Approach
 
-===============================================================================================================================================
+=================================================================================
 
 Transmedia storytelling is the art of telling a story across multiple media and preferably with a degree of audience participation, interaction or collaboration.
 
