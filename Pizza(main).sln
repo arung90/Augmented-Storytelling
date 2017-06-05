@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizza(main)", "Pizza(main).csproj", "{39983F84-263A-574B-52B6-0A74C073DD48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizza(main).Editor", "Pizza(main).Editor.csproj", "{97D87D51-843D-B630-BCD2-FBE75D674A66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39983F84-263A-574B-52B6-0A74C073DD48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39983F84-263A-574B-52B6-0A74C073DD48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39983F84-263A-574B-52B6-0A74C073DD48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39983F84-263A-574B-52B6-0A74C073DD48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D87D51-843D-B630-BCD2-FBE75D674A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D87D51-843D-B630-BCD2-FBE75D674A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D87D51-843D-B630-BCD2-FBE75D674A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D87D51-843D-B630-BCD2-FBE75D674A66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

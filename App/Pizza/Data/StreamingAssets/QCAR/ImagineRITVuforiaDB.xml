@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Rainbow_2" size="0.150000 0.105000" />
+    <ImageTarget name="Pokeball_2" size="0.150000 0.105000" />
+    <ImageTarget name="ImagineRIT_2" size="0.150000 0.105000" />
+    <ImageTarget name="Friends_2" size="0.150000 0.105000" />
+    <ImageTarget name="Earth_2" size="0.150000 0.105000" />
+    <ImageTarget name="RIT" size="0.150000 0.105000" />
+    <ImageTarget name="IPhone" size="0.150000 0.105000" />
+    <ImageTarget name="Sun" size="0.150000 0.105000" />
+    <ImageTarget name="ImagineRIT" size="0.150000 0.134750" />
+    <ImageTarget name="Snow" size="0.150000 0.182107" />
+    <ImageTarget name="Pepperoni" size="0.150000 0.150000" />
+    <ImageTarget name="Pokeball" size="0.150000 0.149740" />
+    <ImageTarget name="Rainbow" size="0.150000 0.084375" />
+    <ImageTarget name="Moana" size="0.150000 0.084338" />
+    <ImageTarget name="Friends" size="0.150000 0.112500" />
+    <ImageTarget name="Earth" size="0.150000 0.150000" />
+    <ImageTarget name="Diving" size="0.150000 0.136278" />
+  </Tracking>
+</QCARConfig>
